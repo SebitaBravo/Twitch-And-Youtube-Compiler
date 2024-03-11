@@ -4,7 +4,7 @@ Este script te permite descargar videos de YouTube y VODs de Twitch de forma sen
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.11.x
 - Entorno virtual (super recomendado)
 
 ## Instalación
