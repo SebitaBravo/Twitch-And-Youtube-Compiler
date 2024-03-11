@@ -5,16 +5,29 @@ Este script te permite descargar videos de YouTube y VODs de Twitch de forma sen
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas Python: `pytube`, `streamlink`, `moviepy`, `requests`.
+- Entorno virtual (super recomendado)
 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
-2. Ejecuta el archivo run.py
+2. Entrar al directorio  `cd Twitch-And-Youtube-Compiler/`
+3. Ejecuta el archivo `python run.py`
 
-  ```shell
- python run.py 
-  ```
+## Setup virtual environment (Opcional)
+
+Install on macOS/Linux
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Install on Windows
+
+```shell
+py -3 -m venv .venv
+.venv\Scripts\activate
+```
 
 ## Uso
 
